@@ -1,0 +1,75 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+p{
+    font-size: 18px;
+    font-family: Outfit;
+    color: hsl(215, 51%, 70%);
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+h3{
+    color: white;
+    font-family: Outfit;
+}
+h5{
+    font-size: 14px;
+    font-family: Outfit;
+    color: hsl(215, 51%, 70%);
+    padding-left: 10px;
+}
+hr{
+    color: hsl(215, 51%, 70%);
+    border-top: 0.5px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.card{
+    background-color: hsl(216, 50%, 16%);
+    text-align: left;
+    width: 350px;
+    height: 600px;
+    border-radius: 3%;
+    margin-top: 100px;
+    
+}
+
+.imagem{
+    
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    border-radius:3%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.info{
+    padding-left: 26px;
+    padding-right: 30px;
+}
+
+.moeda{
+    font-size: 15px;
+    font-family: Outfit;
+    color: hsl(178, 100%, 50%);
+    padding-right: 110px;
+
+
+}
+
+.dias{
+    font-size: 15px;
+    font-family: Outfit;
+    color: hsl(215, 51%, 70%);
+   
+}
+
+.avatar{
+    height: 30px;
+}
